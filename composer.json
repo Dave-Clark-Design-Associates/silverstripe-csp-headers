@@ -19,7 +19,7 @@
   "require": {
     "silverstripe/cms": "^4",
     "paragonie/csp-builder": "^2",
-    "guzzlehttp/guzzle": "^6"
+    "guzzlehttp/guzzle": "^7"
   },
   "require-dev": {
     "scriptfusion/phpunit-immediate-exception-printer": "^1",
